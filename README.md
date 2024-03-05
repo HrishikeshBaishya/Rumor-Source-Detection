@@ -18,6 +18,8 @@ with fewer sensor nodes compared to other algorithms.
 
  
 Experimental evaluations with data shows that the Two stage algorithm outperforms the other available algorithms in terms of - 
+  
+   
    1.Accuracy of localizing the source.
 
    2.It can determine the actual source within two hops 69-80% of time.
