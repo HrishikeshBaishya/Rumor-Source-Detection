@@ -4,9 +4,7 @@ Description: Rumour Source Detection
 
 Aim :-To identifying the source of rumour in a large-scale social network where internode relationship strengths are random.
 
-Algorithm:-
-
-It proposes a Two-stage algorithm to locate the source of rumour.
+Algorithm:- It proposes a Two-stage algorithm to locate the source of rumour.
 The algorithm uses the social network's modularity to find the rumour’s source
 with fewer sensor nodes compared to other algorithms.
 
