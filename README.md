@@ -14,6 +14,7 @@ with fewer sensor nodes compared to other algorithms.
      containing the rumor source.
 
  2.The second stage estimating the source from nodes in the identified cluster .<br>
-Experimental evaluations with data shows that the Two stage algorithm outperforms the other available algorithms in terms of - 1.Accuracy of localizing the source.
+Experimental evaluations with data shows that the Two stage algorithm outperforms the other available algorithms in terms of - 
+   1.Accuracy of localizing the source.
 
    2.It can determine the actual source within two hops 69-80% of time.
